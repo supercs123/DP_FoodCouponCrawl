@@ -13,31 +13,10 @@ headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (K
         dper=b04546a7f9ba1c1c2a703311e3f57e88e36444c34796285b652ccfa529dbc92e; \
         ll=7fd06e815b796be3df069dec7836c3df; ua=supercs123; \
         ctu=34430638c3fbc59558454073183ed838bd76200ecf6a49b8d63e4295ffe6b18c; \
-        uamo=13641731392; Hm_lvt_185e211f4a5af52aaffe6d9c1a2737f4=1521340006,1521341246,1521342682,1521349647;\
+        uamo=********392; Hm_lvt_185e211f4a5af52aaffe6d9c1a2737f4=1521340006,1521341246,1521342682,1521349647;\
         Hm_lpvt_185e211f4a5af52aaffe6d9c1a2737f4=1521350665; tg_list_scroll=313; \
         JSESSIONID=2793719CCBC84ED2F831B828C4D051F5'}
 
-cookieVals={"utma":"1.1972886557.1483260919.1490016662.1490970687.8",				
-		 "_hc.v":"\"beb15290-2bc8-452c-ab2d-a1d1f7f96f95.1476797445\"",
-		"_lx_utm": "utm_source%3De.dianping.com%26utm_medium%3Dreferral%26utm_content%3D%252Fshopclaim%252Fintroduce%252Fsearch",
-		"_lxsdk": "15ea4ac73ccc8-0ce33493b6de0d-e313761-100200-15ea4ac73ccc8",
-		"_lxsdk_cuid": "15ea4ac73ccc8-0ce33493b6de0d-e313761-100200-15ea4ac73ccc8",
-		"_lxsdk_s": "16236ee233b-9f0-ec7-88f%7C%7C21",
-		"_tr.u": "IQOYcZcFkVNgF1sD",
-		"aburl": "1",
-		"ctu": "34430638c3fbc59558454073183ed838bd76200ecf6a49b8d63e4295ffe6b18c",
-		#"cy": "11",
-		#"cye": "ningbo"
-		"dper":"b04546a7f9ba1c1c2a703311e3f57e88e36444c34796285b652ccfa529dbc92e",
-		"ll":"7fd06e815b796be3df069dec7836c3df",
-		"s_ViewType": "10",
-		"ua":"supercs123",
-		"uamo":"13641731392"
-		}
-#headers['Cookie']=';'.join('%s=%s'%(k,v) for k,v in cookieVals.items())
-
-#headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
-#           'Cookie':'s_ViewType=10;Domain=.dianping.com;Expires=Mon, 17-Jul-2017 06:18:46 GMT;Path=/;JSESSIONID=DF651374389129A9149326BA93EABCA0;_hc.v="\"34fcfbbf-b319-4355-bdae-9112b3012952.1468736483\"";PHOENIX_ID=0a0303bc-155f781c895-1283432;='}
 #proxies = ['http://121.69.33.158:8080',
 #           'http://61.135.217.3:80',
 #           'http://61.135.217.9:80',
