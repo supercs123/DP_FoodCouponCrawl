@@ -155,7 +155,7 @@ def getStoreDetailInfo(mcht):
              "\\":"",
              "￥":"",
              "\n":"",
-             "！":","}
+             "！":"^^"}
 
        #输出的保存文件名
     outFileName = cityNm+'_Coupon_Info.csv'
